@@ -63,7 +63,7 @@ export default siteConfig({
   dateformat: 'yyyy년 MM월 dd일',
 
   // post page - hidden properties
-  hiddenPostProperties: ['프로젝트', '서비스 내용', '개발 기간', '기술 스택'],
+  hiddenPostProperties: [],
 
   // contentPosition (table of contents) text align
   contentPositionTextAlign: 'left',
