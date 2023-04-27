@@ -52,8 +52,16 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
+      title: '홈',
+      pageId: 'Front-end-Engineer-Web-Developer-7daea3eda5974495911105beb085359e',
+    },
+    {
       title: '이력서',
       pageId: 'e6415550df5d45219b05884ab819cecc',
+    },
+    {
+      title: '블로그',
+      pageId: 'Sunny-Day-7a3ec7746e484194a001bf341046c37a',
     },
   ],
 
