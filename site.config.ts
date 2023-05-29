@@ -57,7 +57,7 @@ export default siteConfig({
     },
     {
       title: '이력서',
-      pageId: 'e6415550df5d45219b05884ab819cecc',
+      pageId: '40035ba69886499bae8415741e982829',
     },
   ],
 
